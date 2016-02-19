@@ -1,0 +1,1 @@
+Moved to [MobileChromeApps/cordova-plugin-chrome-apps-audioCapture](https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-audioCapture)

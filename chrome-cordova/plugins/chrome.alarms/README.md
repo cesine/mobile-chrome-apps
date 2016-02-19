@@ -1,0 +1,1 @@
+Moved to [MobileChromeApps/cordova-plugin-chrome-apps-alarms](https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-alarms)

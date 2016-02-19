@@ -1,0 +1,1 @@
+Moved to [MobileChromeApps/cordova-plugin-chrome-apps-iosSocketsCommon](https://github.com/MobileChromeApps/cordova-plugin-chrome-apps-iosSocketsCommon)

@@ -1,4 +1,4 @@
-# Understanding Mobile Chrome Apps lifecycle events
+# Understanding Lifecycle Events
 
 
 ## Lifecycle Events
@@ -9,11 +9,11 @@ Understanding these can be critical to developing an application that can save a
 
 ## The Events
 
-onRestarted
-onInstalled
-onLaunched
-onSuspend
-onSuspendCanceled
+* onRestarted
+* onInstalled
+* onLaunched
+* onSuspend
+* onSuspendCanceled
 
 ## Desktop Event Firing Triggers and Sequence
 
@@ -45,7 +45,7 @@ Applications (almost) never start without the intention of launching.
 
 Applications generally do not run in the background. They are suspended instead, and can be terminated at any time.
 
-## How Mobile Chrome Apps deals with this
+## How Mobile with this
 
 ![Mobile lifecycle event diagram](mobileevents.png)
 
